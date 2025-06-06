@@ -1,0 +1,6 @@
+node_modules
+.parcel-cache
+coverage
+dist
+App.js-old-1
+oldApp.js
