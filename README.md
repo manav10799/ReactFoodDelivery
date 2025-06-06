@@ -1,4 +1,4 @@
-#🍔 ReactFoodDelivery
+🍔 #ReactFoodDelivery
 A simple React-based food delivery app built using the Swiggy GET API, developed as a practice project to strengthen my skills in modern web development technologies.
 
 🔧 Tech Stack:
